@@ -1,5 +1,7 @@
 # 🚀 google-contacts-mcp-server - Effortless Connection to Google Contacts
 
+[![SafeSkill 93/100](https://img.shields.io/badge/SafeSkill-93%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/f1nthelad-google-contacts-mcp-server)
+
 [![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/f1nthelad/google-contacts-mcp-server/releases)
 
 ## 📖 Overview
